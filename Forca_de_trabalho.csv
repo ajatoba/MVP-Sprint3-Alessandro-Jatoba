@@ -1,0 +1,112 @@
+ano;Cidade;profissionais_de_saude_superior_por_10_000_habitantes;profissionais_de_saude_medio_por_10_000_habitantes
+2010;Curitiba;18881;1573.4
+2011;Curitiba;20315;1692.9
+2012;Curitiba;25694;2141.2
+2013;Curitiba;26302;2191.8
+2014;Curitiba;27089;2257.4
+2015;Curitiba;28076;2339.7
+2016;Curitiba;27807;2317.3
+2017;Curitiba;27269;2272.4
+2018;Curitiba;27796;2316.3
+2019;Curitiba;28331;2360.9
+2020;Curitiba;30397;2533.1
+2021;Curitiba;41622;3468.5
+2022;Curitiba;42678;3556.5
+2010;Fortaleza;26261;2188.4
+2011;Fortaleza;25266;2105.5
+2012;Fortaleza;25765;2147.1
+2013;Fortaleza;27808;2317.3
+2014;Fortaleza;27139;2261.6
+2015;Fortaleza;27896;2324.7
+2016;Fortaleza;27977;2331.4
+2017;Fortaleza;28665;2388.8
+2018;Fortaleza;29992;2499.3
+2019;Fortaleza;33732;2811.0
+2020;Fortaleza;40526;3377.2
+2021;Fortaleza;58604;4883.7
+2022;Fortaleza;54927;4577.3
+2010;São Paulo;121199;10099.9
+2011;São Paulo;125423;10451.9
+2012;São Paulo;131779;10981.6
+2013;São Paulo;136397;11366.4
+2014;São Paulo;146663;12221.9
+2015;São Paulo;186908;15575.7
+2016;São Paulo;360299;30024.9
+2017;São Paulo;366843;30570.3
+2018;São Paulo;374757;31229.8
+2019;São Paulo;387850;32320.8
+2020;São Paulo;448579;37381.6
+2021;São Paulo;499811;41650.9
+2022;São Paulo;511557;42629.8
+2010;Manaus;14766;1230.5
+2011;Manaus;14648;1220.7
+2012;Manaus;14934;1244.5
+2013;Manaus;15632;1302.7
+2014;Manaus;14886;1240.5
+2015;Manaus;15552;1296.0
+2016;Manaus;15447;1287.3
+2017;Manaus;15576;1298.0
+2018;Manaus;16720;1393.3
+2019;Manaus;17993;1499.4
+2020;Manaus;19477;1623.1
+2021;Manaus;19595;1632.9
+2022;Manaus;19550;1629.2
+2010;Porto Alegre;13229;1102.4
+2011;Porto Alegre;13059;1088.3
+2012;Porto Alegre;13707;1142.3
+2013;Porto Alegre;14713;1226.1
+2014;Porto Alegre;15813;1317.8
+2015;Porto Alegre;25156;2096.3
+2016;Porto Alegre;75047;6253.9
+2017;Porto Alegre;80065;6672.1
+2018;Porto Alegre;84336;7028.0
+2019;Porto Alegre;88687;7390.6
+2020;Porto Alegre;95710;7975.8
+2021;Porto Alegre;108044;9003.7
+2022;Porto Alegre;108017;9001.4
+2010;Goiânia;18029;1502.4
+2011;Goiânia;17637;1469.8
+2012;Goiânia;17702;1475.2
+2013;Goiânia;19613;1634.4
+2014;Goiânia;20787;1732.3
+2015;Goiânia;20599;1716.6
+2016;Goiânia;20759;1729.9
+2017;Goiânia;20712;1726.0
+2018;Goiânia;21356;1779.7
+2019;Goiânia;22401;1866.8
+2020;Goiânia;23187;1932.3
+2021;Goiânia;26749;2229.1
+2022;Goiânia;28274;2356.2
+2010;Brasília;1418;118.2
+2011;Brasília;1397;116.4
+2012;Brasília;1088;90.7
+2013;Brasília;238;19.8
+2014;Brasília;312;26.0
+2015;Brasília;;0.0
+2016;Brasília;;0.0
+2017;Brasília;;0.0
+2018;Brasília;;0.0
+2019;Brasília;;0.0
+2020;Brasília;;0.0
+2021;Brasília;;0.0
+2022;Brasília;;0.0
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+SP-São Paulo. PR-Curitiba. CE-Fortaleza. DF-Brasília. AM-Manaus (capitais - municipal);;;
+Opções alternativas: Porto Alegre e Goiânia;;;

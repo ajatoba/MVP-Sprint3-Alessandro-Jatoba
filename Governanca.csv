@@ -1,0 +1,112 @@
+ano;Cidade;Atualizacao_Estrategia_Nacional_de_Saude;_Atualizacao_politica_nacional_de_medicamentos;Atualizacao_plano_estrategico_nacional_para_a_tuberculose;Atualizacao_politica_nacional_de_malaria;Atualizacao_politica_de_saude_reprodutiva;Atualizacao_plano_imunizacao_infantil
+2010;Curitiba;sim;sim;sim;sim;sim;sim
+2011;Curitiba;sim;sim;sim;nao;sim;sim
+2012;Curitiba;sim;sim;sim;sim;sim;sim
+2013;Curitiba;sim;sim;sim;sim;sim;sim
+2014;Curitiba;nao;sim;sim;nao;nao;sim
+2015;Curitiba;sim;sim;nao;sim;sim;nao
+2016;Curitiba;sim;sim;sim;sim;sim;sim
+2017;Curitiba;sim;sim;sim;sim;sim;sim
+2018;Curitiba;sim;nao;sim;nao;nao;nao
+2019;Curitiba;sim;sim;sim;sim;sim;sim
+2020;Curitiba;sim;sim;sim;sim;sim;sim
+2021;Curitiba;sim;sim;sim;sim;sim;sim
+2022;Curitiba;sim;sim;sim;sim;sim;sim
+2010;Fortaleza;sim;sim;sim;sim;sim;sim
+2011;Fortaleza;sim;sim;sim;sim;sim;sim
+2012;Fortaleza;sim;sim;sim;nao;sim;nao
+2013;Fortaleza;sim;sim;sim;sim;sim;sim
+2014;Fortaleza;sim;sim;sim;sim;sim;sim
+2015;Fortaleza;sim;sim;sim;sim;sim;sim
+2016;Fortaleza;sim;sim;nao;sim;sim;sim
+2017;Fortaleza;nao;sim;sim;sim;sim;sim
+2018;Fortaleza;sim;sim;sim;sim;sim;nao
+2019;Fortaleza;sim;sim;sim;sim;sim;sim
+2020;Fortaleza;sim;sim;sim;sim;sim;sim
+2021;Fortaleza;sim;sim;sim;sim;sim;sim
+2022;Fortaleza;sim;sim;sim;sim;sim;sim
+2010;Sao Paulo;sim;sim;sim;sim;sim;sim
+2011;Sao Paulo;sim;sim;sim;sim;sim;sim
+2012;Sao Paulo;sim;nao;sim;sim;nao;sim
+2013;Sao Paulo;sim;sim;sim;sim;sim;sim
+2014;Sao Paulo;sim;sim;sim;sim;sim;sim
+2015;Sao Paulo;sim;sim;sim;sim;sim;sim
+2016;Sao Paulo;sim;sim;sim;sim;sim;sim
+2017;Sao Paulo;sim;sim;nao;sim;sim;nao
+2018;Sao Paulo;sim;sim;sim;nao;nao;sim
+2019;Sao Paulo;sim;sim;sim;sim;sim;sim
+2020;Sao Paulo;sim;sim;sim;sim;nao;sim
+2021;Sao Paulo;sim;sim;sim;sim;sim;sim
+2022;Sao Paulo;sim;sim;sim;sim;sim;sim
+2010;Manaus;sim;sim;sim;sim;sim;sim
+2011;Manaus;sim;sim;sim;sim;sim;sim
+2012;Manaus;nao;sim;sim;sim;sim;sim
+2013;Manaus;sim;nao;sim;nao;sim;sim
+2014;Manaus;sim;sim;nao;sim;sim;sim
+2015;Manaus;nao;sim;sim;sim;sim;sim
+2016;Manaus;sim;sim;sim;sim;sim;nao
+2017;Manaus;sim;sim;sim;sim;sim;sim
+2018;Manaus;sim;sim;sim;sim;sim;sim
+2019;Manaus;sim;nao;sim;sim;sim;sim
+2020;Manaus;sim;sim;sim;sim;sim;sim
+2021;Manaus;sim;sim;sim;sim;sim;sim
+2022;Manaus;sim;sim;sim;sim;sim;sim
+2010;Porto Alegre;sim;sim;sim;sim;sim;sim
+2011;Porto Alegre;sim;sim;sim;sim;nao;sim
+2012;Porto Alegre;nao;sim;nao;sim;sim;sim
+2013;Porto Alegre;sim;sim;sim;sim;sim;sim
+2014;Porto Alegre;sim;nao;nao;nao;sim;sim
+2015;Porto Alegre;sim;sim;sim;sim;sim;sim
+2016;Porto Alegre;sim;sim;sim;sim;sim;nao
+2017;Porto Alegre;sim;nao;sim;sim;sim;sim
+2018;Porto Alegre;nao;sim;nao;sim;sim;sim
+2019;Porto Alegre;sim;sim;sim;sim;sim;sim
+2020;Porto Alegre;sim;sim;sim;sim;sim;sim
+2021;Porto Alegre;sim;sim;sim;sim;sim;sim
+2022;Porto Alegre;sim;sim;sim;sim;sim;sim
+2010;Goi‰nia;sim;sim;sim;sim;sim;sim
+2011;Goi‰nia;sim;sim;sim;sim;sim;sim
+2012;Goi‰nia;sim;sim;sim;nao;sim;sim
+2013;Goi‰nia;nao;nao;nao;sim;sim;sim
+2014;Goi‰nia;sim;sim;sim;nao;sim;nao
+2015;Goi‰nia;sim;sim;sim;nao;sim;sim
+2016;Goi‰nia;sim;sim;sim;sim;sim;sim
+2017;Goi‰nia;nao;sim;nao;sim;nao;nao
+2018;Goi‰nia;sim;sim;sim;sim;sim;sim
+2019;Goi‰nia;sim;sim;sim;sim;sim;nao
+2020;Goi‰nia;sim;sim;sim;sim;sim;sim
+2021;Goi‰nia;sim;sim;sim;sim;sim;sim
+2022;Goi‰nia;sim;sim;sim;sim;sim;sim
+2010;Brasilia;sim;sim;sim;sim;sim;sim
+2011;Brasilia;sim;sim;sim;sim;sim;sim
+2012;Brasilia;nao;sim;sim;sim;sim;sim
+2013;Brasilia;sim;sim;sim;nao;sim;sim
+2014;Brasilia;sim;nao;sim;sim;sim;sim
+2015;Brasilia;nao;sim;sim;sim;sim;sim
+2016;Brasilia;sim;sim;sim;sim;sim;nao
+2017;Brasilia;sim;nao;nao;sim;sim;sim
+2018;Brasilia;sim;sim;sim;sim;sim;sim
+2019;Brasilia;sim;sim;sim;sim;sim;sim
+2020;Brasilia;nao;sim;sim;sim;sim;sim
+2021;Brasilia;sim;sim;sim;sim;sim;sim
+2022;Brasilia;sim;sim;sim;sim;sim;sim
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+SP-Sao Paulo, PR-Curitiba, CE-Fortaleza, DF-Brasilia, AM-Manaus (capitais - municipal);;;;;;;
+Opc›es alternativas: Porto Alegre e Goi‰nia;;;;;;;
